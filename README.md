@@ -2,22 +2,12 @@
   <img src="https://user-images.githubusercontent.com/48476025/151673564-63a143df-6818-4aac-a74d-8812f201fc8f.png">
   <h1> MedBlock </h1>
   <h3> Store your medical records securely on blockchain </h3>
-  Built with ❤️ for S.P.I.T & Kardia Hackathon
+  
   &nbsp;&nbsp;&nbsp;
   <a href="https://youtu.be/zqB1ttYVSB0)">
   Demo 🚀
   </a>
 </div>
-
-#### Secured 
-* [Runner up](https://twitter.com/KardiaChain/status/1537479618252668928) in Kardiachain Existing project category
-* Winner in SPIT hackathon
-
-#### Team Name - Code Squad
-- [Omkar Phansopkar](https://github.com/OmkarPh)
-- [Rupesh Raut](https://github.com/Rupesh-2003)
-- [Aniruddha Shriwant](https://github.com/Aniruddha-Shriwant)
-- [Rohan Darade](https://github.com/RohanDarade)
 
 ## Tech Stack
 - Blockchain: 
@@ -60,8 +50,6 @@ cd server && npm run dev
 ```
 npm start
 ```
-
-Test credentials: https://gist.github.com/OmkarPh/161a812466f181c566fad21ca2576894
 
 
 <div align="center">
